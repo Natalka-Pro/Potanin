@@ -1,6 +1,8 @@
 .ipynb_checkpoints/
 .~lock.*
 DocEnTR/
-strokes_cut/
 КККМ*
+env*
+AIST*
+blla.mlmodel
 
