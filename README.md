@@ -22,6 +22,8 @@ Total.zip — аналогичная структура, но со всеми с
 
 КККМfolder10_bin.zip - для оконной модели
 
+КККМ_strokes_bin/ — все строки, плохие тоже (parsing2.ipynb)
+
 КККМfolder10_strokes_bin/ - выкинуты короткие
 
 КККМFOLDER_bin/ — все бинаризованные картинки
@@ -29,8 +31,6 @@ Total.zip — аналогичная структура, но со всеми с
 КККМ_lines/ — обведённые строки на rgb картинке (kraken_example.ipynb)
 
 КККМ_pickles/ — координаты строк (kraken_example.ipynb)
-
-КККМ_strokes_bin/ — все строки, плохие тоже (parsing2.ipynb)
 
 КККМ_lines_bin/ — обведённые строки на bin картинке (parsing2.ipynb)
 
