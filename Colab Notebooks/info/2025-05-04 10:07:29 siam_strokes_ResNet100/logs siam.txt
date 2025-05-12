@@ -1,0 +1,40 @@
+Make logs/2025-05-04 10:07:29 siam_strokes_ResNet100
+Make info/2025-05-04 10:07:29 siam_strokes_ResNet100
+
+Training start
+00:02:02 epoch:    0, train/val loss = 6.93014 / 6.19374, acc =  67.382 /  70.301
+00:03:34 epoch:    1, train/val loss = 6.03329 / 6.05707, acc =  71.005 /  71.234
+00:05:03 epoch:    2, train/val loss = 5.85713 / 5.60319, acc =  71.507 /  73.840
+00:06:32 epoch:    3, train/val loss = 5.90327 / 5.60856, acc =  71.507 /  73.314
+00:08:01 epoch:    4, train/val loss = 5.63268 / 5.64695, acc =  72.828 /  72.262
+00:09:30 epoch:    5, train/val loss = 5.62817 / 5.85519, acc =  72.924 /  71.903
+00:10:58 epoch:    6, train/val loss = 5.52760 / 5.57535, acc =  73.869 /  73.529
+00:12:27 epoch:    7, train/val loss = 5.60860 / 5.64944, acc =  72.990 /  72.836
+00:13:56 epoch:    8, train/val loss = 5.55128 / 5.44728, acc =  73.348 /  73.434
+00:15:24 epoch:    9, train/val loss = 5.35973 / 5.65639, acc =  74.293 /  73.171
+00:16:53 epoch:   10, train/val loss = 5.54675 / 5.44784, acc =  73.271 /  74.055
+00:18:23 epoch:   11, train/val loss = 5.47804 / 5.45974, acc =  73.749 /  72.932
+00:19:51 epoch:   12, train/val loss = 5.56379 / 5.64723, acc =  73.438 /  72.262
+00:21:21 epoch:   13, train/val loss = 5.25787 / 5.73005, acc =  75.106 /  72.406
+00:22:50 epoch:   14, train/val loss = 5.48545 / 5.41965, acc =  73.761 /  74.055
+00:24:19 epoch:   15, train/val loss = 5.54620 / 5.39215, acc =  73.528 /  74.199
+00:25:48 epoch:   16, train/val loss = 5.36283 / 5.39003, acc =  74.622 /  73.673
+00:27:16 epoch:   17, train/val loss = 5.29116 / 5.38294, acc =  74.831 /  74.103
+00:28:45 epoch:   18, train/val loss = 5.20155 / 5.31157, acc =  75.196 /  73.721
+00:30:13 epoch:   19, train/val loss = 5.36834 / 5.26465, acc =  74.311 /  74.486
+00:31:41 epoch:   20, train/val loss = 5.34586 / 5.36189, acc =  74.389 /  74.127
+00:33:08 epoch:   21, train/val loss = 5.40730 / 5.62943, acc =  74.431 /  73.553
+00:34:37 epoch:   22, train/val loss = 5.26103 / 5.64957, acc =  75.046 /  73.123
+00:36:05 epoch:   23, train/val loss = 5.25273 / 5.26793, acc =  75.046 /  74.319
+00:37:36 epoch:   24, train/val loss = 5.28578 / 5.38958, acc =  74.556 /  74.271
+00:39:05 epoch:   25, train/val loss = 5.41308 / 5.25407, acc =  74.227 /  75.275
+00:40:32 epoch:   26, train/val loss = 5.21717 / 5.31053, acc =  75.447 /  74.462
+00:42:01 epoch:   27, train/val loss = 5.23905 / 5.44055, acc =  75.274 /  74.247
+00:43:29 epoch:   28, train/val loss = 5.29426 / 5.42122, acc =  74.729 /  74.008
+00:44:57 epoch:   29, train/val loss = 5.17527 / 5.51868, acc =  75.794 /  73.362
+
+Best train loss = 5.17527293 on   29 epoch
+Best val loss   = 5.25406762 on   25 epoch
+Best train acc  = 75.7936271 on   29 epoch
+Best val acc    = 75.274988  on   25 epoch
+Training completed
